@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/13 19:33:47.000.085,=D:\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/13 20:36:40.000.536,D:\Embarcadero\Projects\Unit1.dfm=D:\Frontys\Code\TelaRestaurante\tela.dfm</Transaction>
+    <Transaction>2021/07/13 20:36:40.000.536,D:\Embarcadero\Projects\Unit1.pas=D:\Frontys\Code\TelaRestaurante\tela.pas</Transaction>
+    <Transaction>2021/07/13 20:36:45.000.282,D:\Embarcadero\Projects\Project1.dproj=D:\Frontys\Code\TelaRestaurante\projeto.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
